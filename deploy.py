@@ -1,5 +1,7 @@
 print('Welcome to Nissan')
 print('Get ready for automation')
 print('we will be automating all toyota client tasks')
+print('testing fetch')
+print('tested pull and confirm')
 print('Hello, I am sure you all are getting it')
 print('testing fetch')
